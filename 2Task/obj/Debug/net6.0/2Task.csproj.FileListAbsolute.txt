@@ -1,0 +1,5 @@
+C:\Users\Семён Шевлюк\OneDrive\Рабочий стол\Test\2Task\obj\Debug\net6.0\2Task.csproj.AssemblyReference.cache
+C:\Users\Семён Шевлюк\OneDrive\Рабочий стол\Test\2Task\obj\Debug\net6.0\2Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семён Шевлюк\OneDrive\Рабочий стол\Test\2Task\obj\Debug\net6.0\2Task.AssemblyInfoInputs.cache
+C:\Users\Семён Шевлюк\OneDrive\Рабочий стол\Test\2Task\obj\Debug\net6.0\2Task.AssemblyInfo.cs
+C:\Users\Семён Шевлюк\OneDrive\Рабочий стол\Test\2Task\obj\Debug\net6.0\2Task.csproj.CoreCompileInputs.cache
